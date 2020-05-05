@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"totpa7a2d343a7a2d343": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

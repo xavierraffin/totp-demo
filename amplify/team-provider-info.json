@@ -1,0 +1,20 @@
+{
+    "demo": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-totp-demo-173529-authRole",
+            "UnauthRoleArn": "arn:aws:iam::959861384820:role/amplify-totp-demo-173529-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::959861384820:role/amplify-totp-demo-173529-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-totp-demo-173529-deployment",
+            "UnauthRoleName": "amplify-totp-demo-173529-unauthRole",
+            "StackName": "amplify-totp-demo-173529",
+            "StackId": "arn:aws:cloudformation:us-west-2:959861384820:stack/amplify-totp-demo-173529/5381cd20-8e68-11ea-ba6c-02e8b96e39d0",
+            "AmplifyAppId": "d3s58gzz52t7nk"
+        },
+        "categories": {
+            "auth": {
+                "totpa7a2d343a7a2d343": {}
+            }
+        }
+    }
+}
